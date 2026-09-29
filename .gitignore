@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+__pycache__ → Python generated files
+venv/       → virtual environment
+.env        → secrets/environment variables
